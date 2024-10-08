@@ -29,8 +29,7 @@ subscription:
          path: /
 
 ## Enter Workshop Module Configs Below
-
-  preview_persisted_queries:
+preview_persisted_queries:
   enabled: true
   safelist:
     enabled: true
