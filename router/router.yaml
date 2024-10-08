@@ -9,7 +9,7 @@ supergraph:
 sandbox:
   enabled: true
 homepage:
-  enabled: true
+  enabled: false
 
 cors:
   origins:
